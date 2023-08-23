@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cartas>
+  <carta tipoCarta="normal" nomeCarta="arara-azul" imagemCarta="./img/cartas/arara-azul.png" imagemInfo="./img/info/arara-azul.png" imagemFloresta="./img/floresta/arara-azul.png" xFloresta="370" yFloresta="460"/>
+  <carta tipoCarta="normal" nomeCarta="cervo-pantanal" imagemCarta="./img/cartas/cervo-pantanal.png" imagemInfo="./img/info/cervo-pantanal.png" imagemFloresta="./img/floresta/cervo-pantanal.png" xFloresta="315" yFloresta="510"/>
+  <carta tipoCarta="normal" nomeCarta="jacare" imagemCarta="./img/cartas/jacare.png" imagemInfo="./img/info/jacare.png" imagemFloresta="./img/floresta/jacare.png" xFloresta="415" yFloresta="520"/>
+  <carta tipoCarta="normal" nomeCarta="macaco-preto" imagemCarta="./img/cartas/macaco-preto.png" imagemInfo="./img/info/macaco-preto.png" imagemFloresta="./img/floresta/macaco-preto.png" xFloresta="700" yFloresta="450"/>
+  <carta tipoCarta="normal" nomeCarta="mico-leao" imagemCarta="./img/cartas/mico-leao.png" imagemInfo="./img/info/mico-leao.png" imagemFloresta="./img/floresta/mico-leao.png" xFloresta="675" yFloresta="505"/>
+  <carta tipoCarta="normal" nomeCarta="onca" imagemCarta="./img/cartas/onca.png" imagemInfo="./img/info/onca.png" imagemFloresta="./img/floresta/onca.png" xFloresta="0" yFloresta="510"/>
+  <carta tipoCarta="normal" nomeCarta="panda" imagemCarta="./img/cartas/panda.png" imagemInfo="./img/info/panda.png" imagemFloresta="./img/floresta/panda.png" xFloresta="215" yFloresta="510"/>
+  <carta tipoCarta="normal" nomeCarta="peixe-boi" imagemCarta="./img/cartas/peixe-boi.png" imagemInfo="./img/info/peixe-boi.png" imagemFloresta="./img/floresta/peixe-boi.png" xFloresta="470" yFloresta="545"/>
+  <carta tipoCarta="normal" nomeCarta="preguica" imagemCarta="./img/cartas/preguica.png" imagemInfo="./img/info/preguica.png" imagemFloresta="./img/floresta/preguica.png" xFloresta="600" yFloresta="500"/>
+  <carta tipoCarta="normal" nomeCarta="tamandua" imagemCarta="./img/cartas/tamandua.png" imagemInfo="./img/info/tamandua.png" imagemFloresta="./img/floresta/tamandua.png" xFloresta="100" yFloresta="515"/>
+  <carta tipoCarta="normal" nomeCarta="tartaruga" imagemCarta="./img/cartas/tartaruga.png" imagemInfo="./img/info/tartaruga.png" imagemFloresta="./img/floresta/tartaruga.png" xFloresta="535" yFloresta="525"/>
+  <carta tipoCarta="normal" nomeCarta="tucano" imagemCarta="./img/cartas/tucano.png" imagemInfo="./img/info/tucano.png" imagemFloresta="./img/floresta/tucano.png" xFloresta="60" yFloresta="450"/>
+  <carta tipoCarta="especial" nomeCarta="sacanear" imagemCarta="./img/cartas/sacanear.png" imagemInfo="./img/cartas/caixa.png" imagemFloresta="./img/cartas/caixa.png" xFloresta="-100" yFloresta="-100"/>
+  <carta tipoCarta="especial" nomeCarta="embaralhar" imagemCarta="./img/cartas/embaralhar.png" imagemInfo="./img/cartas/caixa.png" imagemFloresta="./img/cartas/caixa.png" xFloresta="-100" yFloresta="-100"/>
+  <carta tipoCarta="especial" nomeCarta="embaralhar" imagemCarta="./img/cartas/embaralhar.png" imagemInfo="./img/cartas/caixa.png" imagemFloresta="./img/cartas/caixa.png" xFloresta="-100" yFloresta="-100"/>
+  <carta tipoCarta="especial" nomeCarta="visualizar" imagemCarta="./img/cartas/visualizar.png" imagemInfo="./img/cartas/caixa.png" imagemFloresta="./img/cartas/caixa.png" xFloresta="-100" yFloresta="-100"/>
+  <carta tipoCarta="especial" nomeCarta="visualizar" imagemCarta="./img/cartas/visualizar.png" imagemInfo="./img/cartas/caixa.png" imagemFloresta="./img/cartas/caixa.png" xFloresta="-100" yFloresta="-100"/>
+  <carta tipoCarta="especial" nomeCarta="visualizar" imagemCarta="./img/cartas/visualizar.png" imagemInfo="./img/cartas/caixa.png" imagemFloresta="./img/cartas/caixa.png" xFloresta="-100" yFloresta="-100"/>
+</cartas>
